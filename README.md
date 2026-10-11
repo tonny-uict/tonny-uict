@@ -16,7 +16,7 @@ I build operations systems for farms and hotels, commercial websites, and academ
 ## Selected Repositories
 - https://github.com/tonny-uict/portfolio — full project index
 - https://github.com/jalodreamfarm/operations — LUK54 farm operations
-- https://github.com/tonny-uict/smartcampus — student management backend
+- https://github.com/tonny-uict/SsegawaTonny-2025-DCS-DAY-0146/tree/main/smartcampus — student management backend
 - https://github.com/tonny-uict/boniepastries — commercial site
 - https://github.com/tonny-uict/klaphones — commercial site
 - https://github.com/tonny-uict/SsegawaTonny-2025-DCS-DAY-0146 — coursework
